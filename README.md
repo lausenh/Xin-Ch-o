@@ -1,2 +1,5 @@
 # Xin-Ch-o
-Bài tập
+Hi Nhom 7
+Chúng tôi đang là sinh viên của Trường Đại Học Tây Bắc.
+
+
